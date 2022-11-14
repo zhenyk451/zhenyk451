@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhenyk451
-- 👀 I’m interested in CTFs and CP
+- 👀 I’m interested in "Capture The Flags" and "Competitive Progamming"
 - 🌱 I’m currently learning C and Python Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
