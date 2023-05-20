@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @zhenyk451
-- 👀 I’m interested in "Capture The Flags" and "Competitive Progamming"
-- 🌱 I’m currently learning C and Python Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 My Interest lies in CTFs, Systems and Network Administration. Due to my coursework I do a fair bit of programming.
 
 2018: 
