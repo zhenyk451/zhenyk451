@@ -1,13 +1,13 @@
-My Interest lies in CTFs, Systems and Network Administration. Due to my coursework I do a fair bit of programming.
+Project Experience
 
 2018: 
-- Android Mobile App to Stream Cloud Music (Java)
+- Android Mobile Application for Music Streaming (Java)
 - Online Food Delivery Platform (Frontend and Backend Javascript, MySQL)
 
 2019:
-- Secured E-Commerce Appliaction (WAMP Stack)
-- Spam Detector with Machine Learning (Python)
-  - My contributions were scraping, tokenizing and sanization of texts. Designing a GUI with Tkinter.
+- Secure E-Commerce Appliaction (WAMP Stack)
+- Bias News Classification using Naives Bayes Theorem (Python)
+  - My contributions were scraping (scrapy), Data preprocessing via Tokenization and Sanization of Text.
 
 2020:
 - Online Learning Platform with CMS functionality (LAMP) (Hosted on Amazon EC2 and RDS)
